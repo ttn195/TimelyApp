@@ -1,0 +1,14 @@
+react
+react-native
+react-native-vector-icons/AntDesign
+formik
+yup
+firebase
+react-native-keyboard-aware-scroll-view
+@expo/vector-icons
+expo-image-picker
+@react-navigation/stack
+react-native-gesture-handler
+react-navigation
+react-native-elements
+expo-google-app-auth
